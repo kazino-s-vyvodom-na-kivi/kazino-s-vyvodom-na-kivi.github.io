@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-vyvodom-na-kivi.github.io
+Sitemap: https://kazino-s-vyvodom-na-kivi.github.io/sitemap.xml
